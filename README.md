@@ -1,1 +1,3 @@
 # AKAASH
+
+The AKAASH security model, implemented in the code, provides essential security services such as authentication, key agreement, data integrity, confidentiality, anonymity, and secure handover for aircraft transitioning between zones. It ensures resistance against various security threats like eavesdropping, data tampering, and Man-in-the-Middle (MITM) attacks. The protocol involves phases like registration, initialization, mutual authentication, and handover, utilizing cryptographic methods for session key computation and validation. The AKAASH protocol aims to secure communication between aircraft and Air Traffic Service Units (ATSUs).
